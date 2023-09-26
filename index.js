@@ -26,7 +26,7 @@ client.on('interactionCreate', (interaction) => {
 })
 
 client.on('ready', () => {
-  console.log(`🔥 Estou online em ${client.user.username}!`)
+  console.log(`Estou online mestre!`)
 })
 
 
